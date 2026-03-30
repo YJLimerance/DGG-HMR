@@ -1,7 +1,7 @@
 # DGG-HMR
 
 ## 🔹 For Reviewer 2: Video Result
-[vedio_1.mp4](vedio_1.mp4)
+[video.mp4](video_1.mp4)
 
 
 ## 🔹 For Reviewer 4: DGG-HMR_vs_CameraHMR
