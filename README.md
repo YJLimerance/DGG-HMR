@@ -1,6 +1,6 @@
-# DGG-HMR
 
 ## 🔹 For Reviewer PQxS: Video Result
+Click the link below to download the video:
 [video.mp4](video_1.mp4)
 
 
